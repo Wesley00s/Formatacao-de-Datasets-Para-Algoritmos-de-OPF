@@ -57,7 +57,7 @@ A maioria dos algoritmos de Machine Learning é adaptada para processar dados ne
      1  C1  Dado  Dado  Dado  Dado
      2  C2  Dado  Dado  Dado  Dado
      3  C2  Dado  Dado  Dado  Dado
-     5  C3  Dado  Dado  Dado  Dado
+     4  C3  Dado  Dado  Dado  Dado
 
 
 
